@@ -22,7 +22,7 @@ Python is used to extract each digit and compute total sum of the digits of a ra
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/iAkn4jx.png" height="80%" width="80%" alt=""/>
+
 <br />
 
 
