@@ -18,7 +18,7 @@ Python is used to extract each digit and compute total sum of the digits of a ra
 
 <p align="center">
 <br/>
-<img width="1095" height="632" alt="Qrmcnuc" src="https://github.com/user-attachments/assets/d17a37d1-1e38-4b87-81ce-446785610e46" />
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/d17a37d1-1e38-4b87-81ce-446785610e46" />
 
 <br />
 <br />
